@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @PEDDABUDI CHATRAPATHI
 - 👀 I’m interested in ... statistics
 - 🌱 I’m currently learning ... statistics
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 pchatrapathistat/pchatrapathistat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
